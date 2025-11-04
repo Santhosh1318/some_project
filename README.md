@@ -1,3 +1,3 @@
 # some_project
-my first project
+my first project\n
 author- santhu
